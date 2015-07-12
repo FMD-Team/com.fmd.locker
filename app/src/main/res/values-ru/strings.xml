@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="w_day_1">Понедельник</string>
+    <string name="w_day_2">Вторник</string>
+    <string name="w_day_3">Среда</string>
+    <string name="w_day_4">Четверг</string>
+    <string name="w_day_5">Пятница</string>
+    <string name="w_day_6">Суббота</string>
+    <string name="w_day_7">Воскресенье</string>
+
+    <string name="m_1">января</string>
+    <string name="m_2">февраля</string>
+    <string name="m_3">марта</string>
+    <string name="m_4">апреля</string>
+    <string name="m_5">мая</string>
+    <string name="m_6">июня</string>
+    <string name="m_7">июля</string>
+    <string name="m_8">августа</string>
+    <string name="m_9">сентября</string>
+    <string name="m_10">октября</string>
+    <string name="m_11">ноября</string>
+    <string name="m_12">декабря</string>
+
+	<string name="unlocktext">Разблокировать</string>
+    <string name="unlockcam">Открыть камеру</string>
+
+</resources>
