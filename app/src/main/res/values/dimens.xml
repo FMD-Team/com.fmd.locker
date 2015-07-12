@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="top_clock_and_date">96dp</dimen>
-	<dimen name="txt_size_clock">111sp</dimen>
-	<dimen name="txt_size_date">15sp</dimen>
-	<dimen name="height_bottom_icons">60dp</dimen>
-	<dimen name="size_bottom_icon">30dp</dimen>
-</resources>
